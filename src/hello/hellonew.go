@@ -47,13 +47,13 @@ func main() {
 	//var c, p, jav = false, false, "Hey"
 	//fmt.Println(i, c, java, python)
 	//fmt.Println(c, p, jav)
-	var i int = 42
-	var f float64 = float64(i)
-	var u uint = uint(f)
-	fmt.Println(i, f, u)
-	const age = 100
-	fmt.Println(age)
-	fmt.Println(age)
-	me := 3
-	fmt.Println(me)
+	//var i int = 42
+	//var f float64 = float64(i)
+	//var u uint = uint(f)
+	//fmt.Println(i, f, u)
+	//const age = 100
+	//fmt.Println(age)
+	//fmt.Println(age)
+	//me := 3
+	//fmt.Println(me)
 }
